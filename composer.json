@@ -5,7 +5,8 @@
     "require": {
         "php": "^8.3",
         "potter/link-provider-interface": "dev-main",
-        "potter/link-provider-trait": "dev-main"
+        "potter/link-provider-trait": "dev-main",
+        "potter/evolvable-link-provider": "dev-main"
     },
     "license": "MIT",
     "autoload": {
